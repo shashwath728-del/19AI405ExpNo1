@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: AGNES ALMEIDA M L </h3>
-<h3>Register Number/Staff Id: 212224060008</h3>
+<h3>Name: SHASHWATH G S </h3>
+<h3>Register Number/Staff Id:212224030026 </h3>
 
 
 <h3>AIM:</h3>
